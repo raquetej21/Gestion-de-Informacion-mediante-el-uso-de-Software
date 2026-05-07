@@ -2,7 +2,9 @@
 creación de practicas y actividades con el uso de softwares
 github es la plataforma de alojamiento de código fuente y colaboración más grande del mundo, esencial para el desarrollo moderno basado en Git. Ofrece una interfaz web intuitiva sobre el sistema de control de versiones Git, facilitando la gestión de proyectos de software. algunas de sus características son las siguientes:
 
-**Características Principales de GitHubAlojamiento de Repositorios:** Almacena repositorios de Git públicos y privados, permitiendo trabajar en la nube.
+Características Principales de GitHub:
+
+**Alojamiento de Repositorios:** Almacena repositorios de Git públicos y privados, permitiendo trabajar en la nube.
 **Colaboración y Gestión:** Facilita el trabajo en equipo a través de Pull Requests, revisiones de código y Code Review.
 **GitHub Actions:** Automatización de flujos de trabajo (CI/CD), permitiendo compilar, probar y desplegar código automáticamente.
 **GitHub Copilot:** Asistente de IA integrado que sugiere código en tiempo real, aumentando la productividad y reduciendo errores.
