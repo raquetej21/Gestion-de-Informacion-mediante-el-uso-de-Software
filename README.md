@@ -9,4 +9,4 @@ github es la plataforma de alojamiento de código fuente y colaboración más gr
 **Documentación y Wiki:** Permite crear documentación centralizada para proyectos mediante archivos README y wikis.
 **Gestión de Proyectos:** Ofrece tableros estilo Kanban (GitHub Projects), seguimiento de problemas (Issues) y control de versiones.
 **Comunidad y Portafolio:** Funciona como una red social para desarrolladores, siendo ideal para mostrar proyectos propios (portafolio) y contribuir al software libre.
-**Seguridad:** Incluye herramientas de escaneo de vulnerabilidades y gestión de secretos
+**Seguridad:** Incluye herramientas de escaneo de vulnerabilidades y gestión de secretos.
