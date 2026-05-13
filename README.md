@@ -13,7 +13,48 @@ Características Principales de GitHub:
 **Comunidad y Portafolio:** Funciona como una red social para desarrolladores, siendo ideal para mostrar proyectos propios (portafolio) y contribuir al software libre.
 **Seguridad:** Incluye herramientas de escaneo de vulnerabilidades y gestión de secretos.
 
----------------------------------------------------------------------------------------------
+Diferencia entre conceptos de Git y GitHub
+1. Repository (Repositorio):
+Un Repository es el lugar donde se guarda un proyecto y todos sus archivos, incluyendo su historial de cambios.
+Puede estar en tu computadora o en plataformas como GitHub
+- Ejemplo:
+Una carpeta de un proyecto web con HTML, CSS y JavaScript almacenada en GitHub.
+
+2. Commit
+Un Commit es un registro o “captura” de los cambios realizados en el proyecto.
+Cada commit guarda qué se modificó y normalmente incluye un mensaje descriptivo.
+- Ejemplo:
+Se agregó la página de inicio
+- Importancia:
+Permite regresar a versiones anteriores si ocurre un error.****
+
+3. Branch (Rama)
+Una Branch es una copia o línea alterna del proyecto donde se pueden hacer cambios sin afectar la versión principal.
+La rama principal normalmente se llama:
+main O master
+- Ejemplo:
+Crear una rama llamada diseño-nuevo para probar cambios en la interfaz.
+- Ventaja:
+Permite trabajar en nuevas funciones de forma segura.
+
+4. Pull Request
+Un Pull Request (PR) es una solicitud para unir los cambios de una rama a otra, normalmente hacia la rama principal.
+- Se usa mucho en trabajo colaborativo porque permite:
+Revisar cambios
+Comentar código
+Aprobar modificaciones antes de unirlas
+- Ejemplo:
+Un programador termina una función y envía un Pull Request para que el equipo revise su trabajo.
+
+5. Fork
+Un Fork es una copia completa de un repositorio creada en otra cuenta de GitHub.
+- Se utiliza para:
+Modificar proyectos ajenos
+Experimentar sin afectar el original
+Contribuir a proyectos de código abierto
+-Ejemplo:
+Copiar un proyecto público a tu cuenta para agregar mejoras.
+
 | Concepto     | ¿Qué es?                | Función principal                                |
 | ------------ | ----------------------- | ------------------------------------------------ |
 | Repository   | Carpeta del proyecto    | Guardar archivos y versiones                     |
@@ -21,4 +62,3 @@ Características Principales de GitHub:
 | Branch       | Rama de trabajo         | Probar cambios sin afectar el proyecto principal |
 | Pull Request | Solicitud de unión      | Revisar y combinar cambios                       |
 | Fork         | Copia de un repositorio | Trabajar sobre proyectos ajenos                  |
----------------------------------------------------------------------------------------------
